@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-URL:https://trevorchenmsu.github.io/RobotFriends-Website-React/
+[HomePage](https://trevorchenmsu.github.io/RobotFriends-Website-React/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
